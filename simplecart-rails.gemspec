@@ -9,7 +9,7 @@ Gem::Specification.new do |gem|
   gem.summary     = "Make simplecart js Mountable"
   gem.description = "Simplecart JS is used for implementing shopping cart functionality. This gem is used for seamless integration of simplecart into rails."
 
-  gem.files = Dir["lib/**/*"] + Dir["vendor/assets/**/*"] + ["Rakefile", "README.rdoc"]
+  gem.files = Dir["lib/**/*"] + Dir["vendor/assets/**/*"] + ["Rakefile", "README.md"]
 
   gem.add_dependency "rails", ">= 3.2.8"
 end
