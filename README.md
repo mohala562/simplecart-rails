@@ -7,7 +7,7 @@ RubyGems: `gem install simplecart-rails`
 
 ## Setup
 
-Add `require` statements to `app/assets/javascripts/application.js` for `simplecart`:
+Add require statements to app/assets/javascripts/application.js for simplecart:
 
 ```js
 //= require simplecart
